@@ -38,4 +38,3 @@ function generateRandomString(length) {
     const processedData = processData(data);
     console.log("Processed Data:", processedData);
   }  
-main()
